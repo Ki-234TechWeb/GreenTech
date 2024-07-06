@@ -367,9 +367,13 @@ li {
 }
 
 .t {
-
+   
     text-align: center;
 }
+.t h2{
+color: black;
+}
+
 
 .text-section {
     margin: 40px 20px 0 20px;
